@@ -1,6 +1,6 @@
 cask "ade" do
-  version "1.2.0"
-  sha256 "978998fa2d2b4af5333a9d5da728265492d2ffbd8ad1beadd979715ce091befb"
+  version "1.2.2"
+  sha256 "851bdded5ded000b8ebe47589bb61564db2cbefc73ba3947044a757305bbbbab"
 
   url "https://github.com/arul28/ADE/releases/download/v#{version}/ADE-#{version}-universal.dmg"
   name "ADE"
