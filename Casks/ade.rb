@@ -1,8 +1,8 @@
 cask "ade" do
   arch arm: "arm64", intel: "x64"
 
-  version "1.2.101"
-  sha256 arm: "c161cdb53c4c4e9808f437d784abb7b2f6e356f812a6fa45a0f060857653254c", intel: "76745527163c1daa3bdec42e74c8b3df0ece1a3d41d78303919d39024980ae9d"
+  version "1.2.102"
+  sha256 arm: "66700dc31d07d17636edb2c25c3f7107c088d70f8778d56a09ffdd2b8ae25d24", intel: "bf591c2a21468b1ef363839ec3722f62cfb61fb955e480b42f31a06ac472d953"
 
   url "https://github.com/arul28/ADE/releases/download/v#{version}/ADE-#{version}-#{arch}.dmg"
   name "ADE"
